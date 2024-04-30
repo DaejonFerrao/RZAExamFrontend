@@ -1,0 +1,84 @@
+.formcon {
+    position: relative;
+    padding-top: 10px;
+    left:600px;
+    max-width: 850px;
+    width: 100%;
+    background: moccasin;
+    padding: 25px;
+    border-radius: 8px;
+    color: #010101;
+}
+
+.formcon .information {
+    margin-top: 10px;
+    width: 100%;
+    color: black;
+}
+
+.information label {
+    color: #000;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.6rem;
+    right:20px;
+}
+
+.form-container {
+    position: relative;
+    left:250px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px 30px;
+    gap: 16px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.information {
+    position: relative;
+    height: 35px;
+    width: 50%;
+    outline: none;
+    font-size: 1rem;
+    color: black;
+    margin-top: 5px;
+    border: 1px solid #EE4E34;
+    border-radius: 6px;
+    padding: 0 15px;
+    background: #FCEDDA;
+}
+
+.credentials {
+    position: relative;
+    height: 35px;
+    width: 60%;
+    outline: none;
+    font-size: 1rem;
+    color:black;
+    padding: 0 15px;
+    background: white;
+}
+
+.submit {
+    background-color: #0066ff;
+    color: #fff;
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 16px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.signin {
+    padding: 16px;
+    font-size: .85rem;
+    background-color: moccasin;
+    box-shadow: moccasin;
+}

@@ -1,0 +1,108 @@
+.pfp {
+    height: 700px;
+    position: relative;
+    top: 20px;
+    display: grid;
+    left: 800px;
+    max-width: 650px;
+    width: 70%;
+    background: #7c5f33;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.pfp-name {
+    position: relative;
+    height: 35px;
+    left: 5px;
+    top:20px;
+    bottom:40px;
+    width:20%;
+    outline: none;
+    font-size: 1rem;
+    color: black;
+    margin-top: 5px;
+    border: 1px solid #EE4E34;
+    border-radius: 6px;
+    padding: 0 15px;
+    background: #FCEDDA;
+}
+
+.pfp-information {
+    position: relative;
+    height: 35px;
+    left: 100px;
+    top:20px;
+    bottom:40px;
+    width:70%;
+    outline: none;
+    font-size: 1rem;
+    color: black;
+    margin-top: 5px;
+    border: 1px solid #EE4E34;
+    border-radius: 6px;
+    padding: 0 15px;
+    background: #FCEDDA;
+
+}
+
+.profile {
+    position: relative;
+    left: 720px;
+    bottom: 400px;
+}
+
+.pfp-index {
+    position: relative;
+    display: grid;
+    left: 10px;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.pfp-display {
+    text-align: center;
+    color: white;
+    font-weight: 20px;
+}
+
+.pfp-boxes {
+    position: relative;
+    max-width: 300px;
+    right: 25px;
+    bottom: 150px;
+    background: #f1f7f1;
+    padding: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+    color: #010101;
+}
+
+.profile-pfp {
+    position: relative;
+    right: 750px;
+    bottom: 680px;
+}
+
+.pfp-box{
+    position: relative;
+    max-width: 300px;
+    right: 50px;
+    bottom: 200px;
+    background: #f1f7f1;
+    padding: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+    color: #010101;
+}
+
+.display {
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    /* padding: 10px; */
+}
